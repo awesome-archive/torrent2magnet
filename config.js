@@ -1,3 +1,3 @@
 export default {
-    apiUrl : "https://torrent-vvv123.rhcloud.com/"
+    apiUrl : "http://35.200.148.180/url2bt/"
 }
